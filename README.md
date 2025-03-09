@@ -37,7 +37,8 @@ The script outputs:
 - Identified anomalies in login attempts.
 - A graph showing login attempts over time with anomalies marked in red.
 
-### Example Output:
+![output](Screenshot%202025-03-09%20065543.png)
+
 #### Console Output:
 ```
    timestamp              level  user   
@@ -48,8 +49,9 @@ Login attempts per minute: [ 5  4  3  5 ... 40 50 ]
 Anomaly indices: [50 51 52]
 Anomaly values (login attempts): [30 40 50]
 ```
+![console output](Screenshot%202025-03-09%200620.png)
 #### Graphical Output:
-![Anomaly Detection Graph](Screenshot%202025-03-09%20065543.png)
+![anomaly detection Graph](Screenshot%2025-03-09%065630.png)
 
 ## Future Enhancements
 - Integration with machine learning models for anomaly detection.
