@@ -13,7 +13,7 @@ This project implements a Python-based SIEM (Security Information and Event Mana
 ## Installation
 ### Prerequisites
 Ensure you have the following dependencies installed:
-- Python 3.6+
+- Python 3.x (recommended python 3.6+)
 - pandas
 - numpy
 - matplotlib
