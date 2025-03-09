@@ -49,9 +49,9 @@ Login attempts per minute: [ 5  4  3  5 ... 40 50 ]
 Anomaly indices: [50 51 52]
 Anomaly values (login attempts): [30 40 50]
 ```
-![console output](Screenshot%2025-03-09%20065620.png)
+![console output](Screenshot%202025-03-09%20065620.png)
 #### Graphical Output:
-![anomaly detection Graph](Screenshot%2025-03-09%20065630.png)
+![anomaly detection Graph](Screenshot%202025-03-09%20065630.png)
 
 ## Future Enhancements
 - Integration with machine learning models for anomaly detection.
