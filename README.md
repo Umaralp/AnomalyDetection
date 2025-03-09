@@ -49,7 +49,7 @@ Login attempts per minute: [ 5  4  3  5 ... 40 50 ]
 Anomaly indices: [50 51 52]
 Anomaly values (login attempts): [30 40 50]
 ```
-![console output](Screenshot%202025-03-09%200620.png)
+![console output](Screenshot%2025-03-09%065620.png)
 #### Graphical Output:
 ![anomaly detection Graph](Screenshot%2025-03-09%065630.png)
 
@@ -57,10 +57,4 @@ Anomaly values (login attempts): [30 40 50]
 - Integration with machine learning models for anomaly detection.
 - Real-time log monitoring and alerting.
 - Use of LLMs for advanced log analysis.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-Junaid Umar
 
